@@ -12,3 +12,5 @@ just clone this repo then
 > > npm start will start the dev server
 
 visit >> http://localhost:3000/summary from your browser to check.
+
+requirement url https://mail.google.com/mail/u/0/#inbox/FMfcgzGkXwJxVJSLhRWhQQWXsPNThsWV?projector=1&messagePartId=0.1
